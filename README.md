@@ -4,6 +4,11 @@ Proyek ini menganalisis data check-in pengguna Foursquare di dua kota besar, **N
 
 ---
 
+## Dataset
+Dataset yang digunakan dalam proyek ini diambil dari [Kaggle](https://www.kaggle.com/datasets/chetanism/foursquare-nyc-and-tokyo-checkin-dataset/data). Dataset ini mencakup 801.131 check-in di dua kota dengan atribut utama seperti ID pengguna, ID tempat, kategori tempat, waktu check-in, serta koordinat geografis.
+
+---
+
 ## ✨ Fitur Utama
 
 1. **Visualisasi Heatmap**  
@@ -33,7 +38,7 @@ Proyek ini menganalisis data check-in pengguna Foursquare di dua kota besar, **N
 ## 🚀 Demo Dashboard
 
 Dashboard interaktif kami dapat diakses melalui tautan berikut:  
-[Klik di sini untuk melihat dashboard Power BI kami!](#https://bit.ly/dashboard_kelompok16)
+[Klik di sini untuk melihat dashboard Power BI kami!](https://bit.ly/dashboard_kelompok16)
 
 ---
 
