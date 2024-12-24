@@ -50,15 +50,6 @@ Proyek ini dibuat oleh **Kelompok 16**:
 
 ---
 
-## 📂 Struktur Proyek
-
-- `data/`: Dataset mentah dan yang telah diproses.  
-- `scripts/`: Kode Python untuk pemrosesan data.  
-- `dashboard.pbix`: File Power BI untuk dashboard interaktif.  
-- `README.md`: Dokumentasi proyek.  
-
----
-
 ## 📩 Kontak
 
 Jika ada pertanyaan atau masukan, silakan hubungi kami melalui email:  
