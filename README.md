@@ -36,7 +36,9 @@ Dataset yang digunakan dalam proyek ini diambil dari [Kaggle](https://www.kaggle
 ---
 
 ## 🚀 Demo Dashboard
+Berikut adalah tampilan dashboard Power BI kami:
 
+![Dashboard Foursquare NYC dan Tokyo]()
 Dashboard interaktif kami dapat diakses melalui tautan berikut:  
 [Klik di sini untuk melihat dashboard Power BI kami!](https://bit.ly/dashboard_kelompok16)
 
